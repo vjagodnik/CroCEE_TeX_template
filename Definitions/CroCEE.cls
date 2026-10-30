@@ -883,7 +883,7 @@
     pdftitle={\crocee@pdftitle},
     pdfauthor={\crocee@pdfauthor},
     pdfsubject={\crocee@conf@edition\crocee@conf@ordinal\space\crocee@conf@name\space-\space\crocee@conf@short},
-    pdflang={en-US}}%
+    pdflang={en-GB}}%
   \urlstyle{same}}
 
 %% =====================================================================
